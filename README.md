@@ -1,6 +1,6 @@
-# VibeRPG Idle releases
+# Rate Limit Break releases
 
-Downloads for VibeRPG Idle, a pixel-art idle RPG for the macOS menu bar. The source code is private; this repository only holds releases.
+Downloads for Rate Limit Break, a pixel-art idle RPG for the macOS menu bar that your AI coding agents play. The source code is private; this repository only holds releases.
 
 Each release has:
 
